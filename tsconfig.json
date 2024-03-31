@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ESNext"
+        ],
+        "target": "ESNext",
+        "module": "CommonJS",
+        "strict": true,
+        "declaration": true,
+        "downlevelIteration": true,
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "outDir": "./dist"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
